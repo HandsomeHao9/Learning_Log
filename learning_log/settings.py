@@ -83,7 +83,7 @@ CORS_ORIGIN_WHITELIST = (
 	'*'
 )
 
-CSRF_TRUSTED_ORIGINS = ['https://coamp.fra1.zeabur.app/']
+CSRF_TRUSTED_ORIGINS = ['https://coamp.fra1.zeabur.app']
 
 CORS_REPLACE_HTTPS_REFERER = True
 
