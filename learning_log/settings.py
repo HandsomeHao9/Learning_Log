@@ -80,7 +80,7 @@ TEMPLATES = [
 CORS_ALLOW_CREDENTIALS = True
 CORS_ORIGIN_ALLOW_ALL = True
 CORS_ORIGIN_WHITELIST = (
-	'*'
+    'https://coamp.fra1.zeabur.app',
 )
 
 CSRF_TRUSTED_ORIGINS = ['https://coamp.fra1.zeabur.app']
